@@ -72,7 +72,7 @@ Asset Assigned
 - Asset Request
 - Business Rules
 - Email Notification
-  https://drive.google.com/drive/folders/1k3ZeVLoMzrI1SFPXk6p7IUef6bZ6JY8w?usp=sharing
+- https://drive.google.com/drive/folders/1k3ZeVLoMzrI1SFPXk6p7IUef6bZ6JY8w?usp=sharing
 ## Future Enhancements
 
 - Manager Approval Workflow
